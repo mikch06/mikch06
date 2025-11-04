@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mikch06
-- 👀 I’m interested in ICT / System Endingeering / Wine & Dine / Technical Stuff / Family
+- 👀 I’m interested in ICT / System Engingeering / Wine & Dine / Technical Stuff / Family
 - 🌱 I’m currently learning Python... for a long time but with less success
 - 📫 How to reach me : mail or by github
 
